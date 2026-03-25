@@ -1,5 +1,7 @@
 owner:
   full_name: Olga Vasilevsky
+  phone_e164: "+972508120708"
+  phone_display: "+972 50-812-0708"
   public_titles:
     - Founder of Lead Agents Studio
     - AI Systems Architect
