@@ -32,8 +32,6 @@ Execution rules:
 - Log every application state.
 - Do not bypass CAPTCHA, OTP, email verification, or 2FA.
 - Pause and ask for human action when blocked by verification.
-- When running locally with `.env` configured, trigger a Telegram ping:  
-  `python3 scripts/telegram_notify.py --reason captcha|otp|2fa|approval` (see `docs/TELEGRAM_ASSISTANCE.md`).
 
 Default objective:
 Find high-paying, high-fit opportunities and move them through a clean application pipeline with minimal wasted motion and no duplicate submissions.

@@ -65,7 +65,7 @@ If there is a conflict:
 - On failure, write a resumable checkpoint.
 - Use explicit selectors and stable flows.
 - Record whether a submit was completed, partially completed, or blocked.
-- When blocked by CAPTCHA / OTP / 2FA / verification, notify the human via Telegram: `python3 scripts/telegram_notify.py` (see `docs/TELEGRAM_ASSISTANCE.md`).
+- When blocked by CAPTCHA / OTP / 2FA / verification, save checkpoint, pause, and request manual completion in the active agent session.
 
 ## Application quality rules
 Each application should:

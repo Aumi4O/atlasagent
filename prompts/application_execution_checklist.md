@@ -11,9 +11,7 @@
 6. Generate tailored intro / cover / short answers.
 7. If no platform account exists:
    - create account using env-based credentials
-   - stop on verification blockers
-   - on CAPTCHA / OTP / 2FA / email verification: save checkpoint, then run  
-     `python3 scripts/telegram_notify.py --reason captcha` (or `otp` / `2fa` / `approval`) with `--detail` for platform + step
+   - stop on verification blockers; save checkpoint and ask the human to continue
 8. Fill profile truthfully.
 9. Upload files.
 10. Answer screening questions.

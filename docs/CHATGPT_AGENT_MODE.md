@@ -47,11 +47,3 @@ When the agent should “sync” with the repo brain, read in this order:
 ## 5. Security
 
 Never put API keys, passwords, or session tokens in instructions or uploaded knowledge. Use local `.env` only (see [`.env.example`](../.env.example) and `docs/SECURITY_RU.md`).
-
-## 6. Telegram when you need a human
-
-If a run pauses on CAPTCHA or verification, run locally (where `.env` has `TELEGRAM_*`):
-
-`python3 scripts/telegram_notify.py --reason captcha --detail "…"`
-
-Setup: [`docs/TELEGRAM_ASSISTANCE.md`](TELEGRAM_ASSISTANCE.md).
