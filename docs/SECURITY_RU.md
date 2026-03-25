@@ -6,6 +6,7 @@
 - access tokens
 - recovery codes
 - OTP secrets
+- токен Telegram-бота (`TELEGRAM_BOT_TOKEN`) — только в `.env`, см. [TELEGRAM_ASSISTANCE.md](TELEGRAM_ASSISTANCE.md)
 
 ## Хранить локально
 Используй:
