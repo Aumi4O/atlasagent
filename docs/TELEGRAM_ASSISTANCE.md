@@ -19,6 +19,8 @@ When Atlas Agent hits **CAPTCHA**, **OTP**, **2FA**, **email verification**, or 
 
 4. Find `"chat":{"id":123456789` — that number is `TELEGRAM_CHAT_ID`.
 
+**If another bot already showed your ID:** some bots print “Your Telegram ID: `…`”. That number is usually your **user id** — you can paste it into `TELEGRAM_CHAT_ID` for Atlas alerts (same as step 4).
+
 **Group (optional):** add the bot to the group, send a message mentioning the bot or any message, then call `getUpdates` again and use the group’s negative `chat.id`.
 
 ## 3. Configure locally
