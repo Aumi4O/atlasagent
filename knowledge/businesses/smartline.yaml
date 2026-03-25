@@ -1,6 +1,7 @@
 business:
   name: SmartLine
   parent_brand: Lead Agents Studio
+  contact_email: support@leadagentsstudio.com
   url: https://smartline.leadagentsstudio.com/smartline/
   category: AI voice agent / revenue recovery system
   core_offer: >

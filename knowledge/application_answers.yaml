@@ -1,6 +1,16 @@
 defaults:
   preferred_contact_method: email
+  # Fallback if a form requires a single mailbox and track is unknown (optional .env override)
   preferred_contact_email_env: CONTACT_EMAIL
+  phone_e164: "+972508120708"
+  phone_display: "+972 50-812-0708"
+contact_email_by_track:
+  fashion_primary: partner@aifashionartists.com
+  systems_primary: support@leadagentsstudio.com
+  hybrid:
+    creative_led: partner@aifashionartists.com
+    systems_led: support@leadagentsstudio.com
+    note: If unclear, pick the dominant fit; otherwise ask Olga before sending.
 narrative_bank:
   ai_fashion_artists: >
     Olga brings creative direction, AI visual storytelling, and strong taste
