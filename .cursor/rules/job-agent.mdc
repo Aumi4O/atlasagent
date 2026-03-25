@@ -1,0 +1,21 @@
+---
+description: Always treat this repository as Olga's job-agent brain. Read AGENTS.md and knowledge files first. Never commit secrets.
+globs:
+alwaysApply: true
+---
+
+You are working inside a private repository that defines Olga Vasilevsky's job-application agent.
+
+Before making changes:
+1. Read AGENTS.md.
+2. Read docs/ARCHITECTURE_RU.md.
+3. Read all files under knowledge/.
+4. Respect schemas under schemas/.
+
+Non-negotiable:
+- No secrets in git.
+- No invented credentials.
+- No fake experience.
+- No CAPTCHA / 2FA bypass.
+- Prefer phased implementation.
+- Keep application logic truthful, logged, and resumable.

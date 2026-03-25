@@ -1,0 +1,23 @@
+resume_versions:
+  fashion_primary:
+    purpose: AI Fashion Artists / creative direction track
+    file_path: resumes/PLACEHOLDER_fashion_resume.pdf
+    use_for:
+      - AI visuals
+      - fashion storytelling
+      - brand / campaign aesthetics
+  systems_primary:
+    purpose: Lead Agents Studio / AI systems track
+    file_path: resumes/PLACEHOLDER_systems_resume.pdf
+    use_for:
+      - AI automation
+      - voice / chat / booking systems
+      - custom AI applications
+  hybrid_primary:
+    purpose: Cross-over roles
+    file_path: resumes/PLACEHOLDER_hybrid_resume.pdf
+    use_for:
+      - projects needing both taste and AI execution
+notes:
+  - Replace placeholders with real files before execution.
+  - Keep filenames stable so automation does not break.

@@ -1,0 +1,29 @@
+owner:
+  full_name: Olga Vasilevsky
+  public_titles:
+    - Founder of Lead Agents Studio
+    - AI Systems Architect
+    - Creative Director at AI Fashion Artists
+    - Building AUMI4 — Autonomous E-Commerce
+  primary_positioning:
+    - high-end AI creative direction
+    - custom AI solutions and systems
+    - business-facing AI automation
+  default_languages_for_business:
+    - English
+    - Russian
+  base_market_preferences:
+    - Israel
+    - international high-ticket projects
+  strategic_preference:
+    - hybrid work combining aesthetic judgment and AI systems
+  notes:
+    - Do not position Olga as a pure traditional software developer.
+    - Position strongest when business outcome, taste, strategy, and AI execution overlap.
+sources:
+  - type: user_provided
+    note: LinkedIn profile URL was provided directly by the user.
+  - type: web_capture
+    url: https://www.linkedin.com/in/olga-vasilevsky-a24a9b23
+    captured_summary: Founder of Lead Agents Studio | AI Systems Architect | Creative Director at AI Fashion Artists | Building AUMI4 — Autonomous E-Commerce
+    captured_at: 2026-03-25

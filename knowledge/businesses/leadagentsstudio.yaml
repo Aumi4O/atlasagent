@@ -1,0 +1,36 @@
+business:
+  name: Lead Agents Studio
+  url: https://leadagentsstudio.com/
+  linkedin_company_url: https://www.linkedin.com/company/leadagentsstudio/
+  role_in_portfolio: Systems / AI solutions track
+  brand_positioning: >
+    Custom AI applications that win customers, deliver support,
+    and scale operations.
+  public_summary: >
+    Lead Agents Studio builds custom AI applications that create real
+    business outcomes: more revenue, faster support, and smoother operations.
+    Positioning includes revenue apps, support apps, and internal workflow tools.
+  current_site_offer: >
+    The current site is strongly oriented around an AI Ads-to-Appointment
+    system for aesthetic clinics: AI video ads + instant AI follow-up
+    and booking.
+  capabilities:
+    - custom AI app development
+    - AI voice and chat agents
+    - revenue apps
+    - customer support AI
+    - CRM and helpdesk integrations
+    - RAG knowledge bases
+    - internal workflow tools
+    - AI follow-up and booking systems
+  application_use_cases:
+    - custom AI systems
+    - lead qualification
+    - booking automation
+    - revenue operations automation
+    - support automation
+  source_snapshot:
+    captured_at: 2026-03-25
+    sources:
+      - https://leadagentsstudio.com/
+      - https://www.linkedin.com/company/leadagentsstudio/

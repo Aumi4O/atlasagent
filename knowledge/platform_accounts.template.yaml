@@ -1,0 +1,12 @@
+platform_accounts:
+  registration_email_env: CONTACT_EMAIL
+  registration_password_env: CONTACT_PASSWORD
+  rules:
+    - Never store real password in git.
+    - Stop on verification blockers.
+    - Log account creation state.
+  platforms:
+    - platform_name: example-platform
+      status: not_started
+      username_or_email: ${CONTACT_EMAIL}
+      notes: ""

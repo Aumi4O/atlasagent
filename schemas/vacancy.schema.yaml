@@ -1,0 +1,19 @@
+vacancy:
+  source_platform: string
+  external_id: string
+  url: string
+  company_name: string
+  role_title: string
+  raw_budget_text: string
+  normalized_budget_usd_min: number
+  normalized_budget_usd_max: number
+  location: string
+  market: string
+  role_type_guess: string
+  description_text: string
+  detected_keywords:
+    - string
+  track_guess: string
+  fit_score: number
+  allowed: boolean
+  rejection_reason: string

@@ -1,0 +1,31 @@
+business:
+  name: SmartLine
+  parent_brand: Lead Agents Studio
+  url: https://smartline.leadagentsstudio.com/smartline/
+  category: AI voice agent / revenue recovery system
+  core_offer: >
+    AI voice agent for calls, SMS, and WhatsApp that answers, qualifies,
+    follows up, books, and hands conversations to humans when needed.
+  positioning: >
+    A revenue agent trained on the business, designed to protect and recover
+    warm leads instead of acting like a simple FAQ bot.
+  standout_points:
+    - 24/7 answering and follow-up
+    - multilingual support
+    - human handoff with context
+    - booking / rescheduling / waitlist fill
+    - no-reply follow-up
+    - after-hours lead recovery
+  pricing_snapshot:
+    setup_offer: "$1,000 one-time setup"
+    usage_model: "usage-based billing after launch"
+  ideal_target_clients:
+    - businesses losing leads after hours
+    - teams with missed calls / slow response
+    - service businesses that need qualification and booking
+  strategic_value_for_job_agent:
+    - proves Olga can sell AI systems with direct revenue impact
+    - supports applications in automation / AI systems / growth ops contexts
+  source_snapshot:
+    captured_at: 2026-03-25
+    source_url: https://smartline.leadagentsstudio.com/smartline/

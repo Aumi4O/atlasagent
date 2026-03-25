@@ -1,0 +1,25 @@
+defaults:
+  preferred_contact_method: email
+  preferred_contact_email_env: CONTACT_EMAIL
+narrative_bank:
+  ai_fashion_artists: >
+    Olga brings creative direction, AI visual storytelling, and strong taste
+    for brand-sensitive work. Best for fashion, beauty, luxury, editorial,
+    and image-led projects.
+  ai_solutions_and_systems: >
+    Olga builds business-facing AI systems that qualify leads, automate follow-up,
+    support booking, and improve operations with practical AI applications.
+  hybrid: >
+    Olga is strongest when a business needs both taste and systems:
+    premium creative direction plus AI automation that drives measurable outcomes.
+short_answers:
+  why_you:
+    - I bridge aesthetics and AI execution, which is rare and commercially useful.
+    - I focus on business outcomes, not AI theater.
+    - I can position, design, and operationalize AI workflows for real use.
+  budget_floor_explanation:
+    - We prioritize serious, outcome-driven engagements and high-value project scopes.
+truthfulness_rules:
+  - Never claim coding depth that is not the honest lead positioning.
+  - Never invent client names, revenue numbers, or certifications.
+  - Reuse only real assets and public business links.

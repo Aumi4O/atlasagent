@@ -1,0 +1,67 @@
+global_rules:
+  minimum_budget_usd: 1000
+  default_priority_order:
+    - hybrid aesthetic + AI systems
+    - custom AI systems for business outcomes
+    - AI fashion / visual storytelling
+tracks:
+  ai_fashion_artists:
+    use_when:
+      - role needs strong visual taste
+      - role needs creative direction
+      - role needs AI visuals / campaign concepts
+      - role is brand / fashion / beauty / luxury adjacent
+    attach_assets:
+      - AI Fashion Artists portfolio
+      - relevant creative samples
+    keywords_include:
+      - AI artist
+      - creative director
+      - visual storyteller
+      - fashion AI
+      - brand campaign
+      - luxury visuals
+      - editorial AI
+  ai_solutions_and_systems:
+    use_when:
+      - role needs custom AI automation
+      - role needs voice / chat / booking / support systems
+      - role needs business workflow improvement
+      - role targets measurable revenue / support / ops outcome
+    attach_assets:
+      - Lead Agents Studio
+      - SmartLine
+    keywords_include:
+      - AI automation
+      - AI systems
+      - custom AI app
+      - voice agent
+      - chat agent
+      - lead qualification
+      - booking automation
+      - support automation
+  hybrid:
+    use_when:
+      - both aesthetics and AI systems matter
+      - project needs brand taste plus automation
+      - project is strategic, high-ticket, and cross-functional
+    attach_assets:
+      - AI Fashion Artists
+      - Lead Agents Studio
+      - SmartLine
+priority_markets:
+  - Israel
+  - Israeli real-estate developers
+  - Israeli construction developers
+  - beauty / aesthetics businesses
+  - luxury / brand-sensitive businesses
+  - simple service businesses with real automation potential
+decision_rules:
+  reject_if:
+    - budget below minimum floor
+    - role is mainly pure Python developer
+    - role is primarily backend engineer / classical software dev
+  prefer_if:
+    - combines taste and AI automation
+    - sells measurable business outcomes
+    - can be positioned through existing businesses truthfully

@@ -1,0 +1,17 @@
+exclude:
+  - title_contains: "Python Developer"
+  - title_contains: "Backend Engineer"
+  - title_contains: "Senior Software Engineer"
+  - title_contains: "Full Stack Developer"
+  - title_contains: "Django Developer"
+  - title_contains: "FastAPI Developer"
+  - title_contains: "ML Engineer"
+  - title_contains: "Data Engineer"
+rules:
+  - Do not target roles where traditional programming depth is the main value proposition.
+  - Do not target low-budget one-off tasks below the budget floor.
+  - Do not submit if truthful positioning would be weak or misleading.
+  - Do not submit twice to the same opportunity without explicit intent.
+allowed_exceptions:
+  - If the role is clearly hybrid and Olga's strategic fit is strong.
+  - If the project is high-value and business-facing, even if some technical coordination is required.

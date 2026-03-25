@@ -1,0 +1,21 @@
+application_record:
+  created_at_iso: string
+  updated_at_iso: string
+  source_platform: string
+  external_id: string
+  url: string
+  company_name: string
+  role_title: string
+  chosen_track: string
+  chosen_resume: string
+  links_used:
+    - string
+  budget_usd_min: number
+  budget_usd_max: number
+  fit_score: number
+  status: string
+  mode: string
+  account_state: string
+  blocker: string
+  submitted_at_iso: string
+  notes: string

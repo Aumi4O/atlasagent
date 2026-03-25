@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# local secrets
+.env
+.env.*
+!.env.example
+
+# python / node noise
+node_modules/
+dist/
+build/
+__pycache__/
+*.pyc
+.playwright/
+playwright-report/
+test-results/
+
+# local state
+state/
+sessions/
+tmp/
